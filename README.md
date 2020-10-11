@@ -8,15 +8,17 @@ This is Genshin Bible Guide for analysis. All datas from Chinese BBS like NGA an
 ***如果词云没出来请刷新（一定概率），这是echarts的锅（issue 71），石锤了***
 
 正所谓***一流的内容创作与技术，~*二流的策划*~，三流的运营”***。公司经营配置有一定失衡。要走的路还有很长。
-### 数据
+### Data Sources
+指明数据出处是非常重要的。尊重他人的劳动成果才能开创美好的未来。
 - NGA
 - 米游社
-- github 原神圣经存档 By `Trojblue` `Thememont` `KanameAimu` 
-  - 详见:https://github.com/Trojblue/Genshin-Bible 
+- github 原神圣经存档 
+  - By `Trojblue` `Thememont` `KanameAimu` 
+  - 原文链接:https://github.com/Trojblue/Genshin-Bible 
 ## Background
   
 python3.8
-  - 结巴分词res
+  - 结巴分词
   - 搜狗词库
   - pandas
   - ......
