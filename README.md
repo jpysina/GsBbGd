@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/jpysina/GsBbGd/main/%E8%B5%84%E6%BA%90%203.svg)
+![image](https://raw.githubusercontent.com/jpysina/GsBbGd/res/%E8%B5%84%E6%BA%90%203.svg)
 # GsBbGd
 ## Introduction
 This is Genshin Bible Guide for analysis. All datas from Chinese BBS like NGA and Mihoyo Offical Forum. We're concentrating on comments of Genshin AND make Genshin ***'GREAT AGAIN'*** .
@@ -14,7 +14,7 @@ This is Genshin Bible Guide for analysis. All datas from Chinese BBS like NGA an
 ## Background
   
 python3.8
-  - 结巴分词
+  - 结巴分词res
   - 搜狗词库
   - pandas
   - ......
