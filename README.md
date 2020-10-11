@@ -5,7 +5,7 @@ This is Genshin Bible Guide for analysis. All datas from Chinese BBS like NGA an
   
 这是个无聊的个人作品。主要focus on 在一款叫做“原神”的高质量游戏上。  
 
-正所谓***一流的内容创作与技术，~*二流的策划*~，三流的运营”***。这家公司要走的路还有很长。
+正所谓***一流的内容创作与技术，~*二流的策划*~，三流的运营”***。公司经营配置有一定失衡。要走的路还有很长。
 ### 数据
 - NGA
 - 米游社
