@@ -32,3 +32,4 @@ python3.8
   - github Action支持，自动抓取数据自动分析，全自动化。
   - echarts function enhance
   - Vuepress？
+  - 圣经精华度太高，下次试试论坛直接抓取
