@@ -12,7 +12,7 @@ This is Genshin Bible Guide for analysis. All datas from Chinese BBS like NGA an
 - NGA
 - 米游社
 - github 原神圣经存档 By `Trojblue` `Thememont` `KanameAimu` 
-  - 详见:[*点击跳转*](URL 'https://github.com/Trojblue/Genshin-Bible') 
+  - 详见:https://github.com/Trojblue/Genshin-Bible 
 ## Background
   
 python3.8
