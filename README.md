@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/jpysina/GsBbGd/res/%E8%B5%84%E6%BA%90%203.svg)
+![image](https://raw.githubusercontent.com/jpysina/GsBbGd/main/asset/img/logo.svg)
 # GsBbGd
 ## Introduction
 This is Genshin Bible Guide for analysis. All datas from Chinese BBS like NGA and Mihoyo Offical Forum. We're concentrating on comments of Genshin AND make Genshin ***'GREAT AGAIN'*** .
